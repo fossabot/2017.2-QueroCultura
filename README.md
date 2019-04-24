@@ -37,3 +37,4 @@ Informações adicionais podem ser obtidas consultando os links abaixo.
 >## Licença
 
 [GNU General Public License v3.0](https://github.com/fga-gpp-mds/2017.2-QueroCultura/blob/master/LICENSE)
+
