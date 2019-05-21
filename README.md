@@ -1,10 +1,10 @@
-
 >## O Projeto Quero Cultura
 [![Build Status](https://travis-ci.org/fga-gpp-mds/2017.2-QueroCultura.svg?branch=master)](https://travis-ci.org/fga-gpp-mds/2017.2-QueroCultura)
 [![Code Health](https://landscape.io/github/fga-gpp-mds/2017.2-QueroCultura/devel/landscape.svg?style=flat)](https://landscape.io/github/fga-gpp-mds/2017.2-QueroCultura/devel)
 [![Code Climate](https://codeclimate.com/github/fga-gpp-mds/2017.2-QueroCultura/badges/gpa.svg)](https://codeclimate.com/github/fga-gpp-mds/2017.2-QueroCultura)
 [![Coverage Status](https://coveralls.io/repos/github/fga-gpp-mds/2017.2-QueroCultura/badge.svg?branch=HEAD)](https://coveralls.io/github/fga-gpp-mds/2017.2-QueroCultura?branch=HEAD)
 [![AUR](https://img.shields.io/aur/license/yaourt.svg?colorB=ff69b4)](https://github.com/fga-gpp-mds/2017.2-QueroCultura/blob/devel/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjjcastro%2F2017.2-QueroCultura.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjjcastro%2F2017.2-QueroCultura?ref=badge_shield)
 
 O projeto Quero Cultura surgiu de uma demanda por visualização de dados do Ministério da Cultura (MinC) por meio do [_Mapas Culturais_](http://mapas.cultura.gov.br/). O _Mapas Culturais_ é um software livre para mapeamento colaborativo e gestão da cultura.
 O Quero Cultura tem como objetivos a visualização dos dados de eventos, projetos e espaços culturais e o relacionamento dos mesmos por meio de indicadores.
@@ -38,3 +38,7 @@ Informações adicionais podem ser obtidas consultando os links abaixo.
 
 [GNU General Public License v3.0](https://github.com/fga-gpp-mds/2017.2-QueroCultura/blob/master/LICENSE)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjjcastro%2F2017.2-QueroCultura.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjjcastro%2F2017.2-QueroCultura?ref=badge_large)
